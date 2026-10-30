@@ -22,4 +22,5 @@ export default defineConfig(({mode}) => {
     },
   };
   base: "/RogRepo/",
+  plugins: [react()],
 });
